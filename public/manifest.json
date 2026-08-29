@@ -1,0 +1,16 @@
+{
+  "short_name": "MatsyaSetu",
+  "name": "MatsyaSetu - Fisheries & Safety Advisory",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#082f49",
+  "theme_color": "#0ea5e9",
+  "display": "standalone",
+  "orientation": "portrait"
+}
